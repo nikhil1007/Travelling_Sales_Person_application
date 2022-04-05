@@ -8,6 +8,9 @@ by Cormen,Lieserson, Rivest and Stein.
 <li> Generate prim's MST of graph
 <li> Generate preorder waslk of MST and find Hamiltonian cycle in that order.
 <li> We also look at the brute force approach by inspecting all possible routes.
+ 
+ ## Sample output for dates (1/1/90 and 1/1/90) would look like:
+ ![alt text](https://drive.google.com/file/d/1kpzzMQbE8KxmduplsnAuKFnHVCBuCbVf/view?usp=sharing)
   
  ## References
  <li> “Introduction to Algorithms” by Cormen,Lieserson, Rivest and Stein
