@@ -1,7 +1,5 @@
 /*
 Name: Nikhil Kashyap (nikhilka)
-Assignment: DSA Project 4 - Traveveling Sales Person, Minimum Spanning Tree, Heaps and Graphs
-Problem Statement: https://www.andrew.cmu.edu/user/mm6/95-771/Homeworks/Homework4Graphs/S22-project4-TSP.pdf
  */
 import java.util.LinkedList;
 
