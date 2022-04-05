@@ -10,7 +10,7 @@ by Cormen,Lieserson, Rivest and Stein.
 <li> We also look at the brute force approach by inspecting all possible routes.
  
  ## Sample output for dates (1/1/90 and 1/1/90) would look like:
- ![alt text](https://drive.google.com/file/d/1kpzzMQbE8KxmduplsnAuKFnHVCBuCbVf/view?usp=sharing)
+ ![output](https://user-images.githubusercontent.com/22376975/161689658-e381fd26-7eee-469c-ad4b-07a0ec3c54d9.PNG)
   
  ## References
  <li> “Introduction to Algorithms” by Cormen,Lieserson, Rivest and Stein
